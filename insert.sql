@@ -1,0 +1,1 @@
+INSERT INTO `teacher` (`ID`, `Name`, `Password`, `Email`, `Course Name`) VALUES (NULL, 'eve', '123456', 'eve@gmail.com', 'EEE');
